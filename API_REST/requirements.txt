@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+flask-openapi3
+flask-restx
+Flask-SQLAlchemy
+greenlet
+pydantic
+pytz
+SQLAlchemy
+SQLAlchemy-Utils
